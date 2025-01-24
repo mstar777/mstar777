@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Thomas, Senior Full Stack Developer
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mstar777.mstar777&format=true)
 
 - 👀 Rich experience in the software industry
 - 🔭 Rich experience in web development with Python & JS & PHP frameworks 
