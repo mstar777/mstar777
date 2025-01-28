@@ -110,7 +110,7 @@
 
 <p align="center">
 
-<a href="https://github.com/mstar777?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mstar777&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@mstar777's github-readme-stats"/></a>
+<!-- <a href="https://github.com/mstar777?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mstar777&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@mstar777's github-readme-stats"/></a> -->
 
 <a href="https://github.com/mstar777?tab=repositories">
       <img alt="mstar777's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mstar777&show_icons=true&count_private=true&border_color=9DAAF2&bg_color=09131B&title_color=FF652F&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49.5%"/>
