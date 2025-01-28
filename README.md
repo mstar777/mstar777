@@ -112,6 +112,10 @@
 
 <a href="https://github.com/mstar777?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mstar777&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@mstar777's github-readme-stats"/></a>
 
+<a href="https://github.com/mstar777?tab=repositories">
+    <img alt="mstar777's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mstar777&langs_count=8&layout=compact&border_color=9DAAF2&bg_color=09131B&text_color=FFFFFF&title_color=FF652F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+
 </p>
 
  <!-- activity graph heroku-app start -->
