@@ -1,5 +1,5 @@
 # 👋 Hi, I’m David, Senior Full Stack Developer
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mstar777.mstar777&format=true)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=uStar10.uStar10&format=true)
 
 - 👀 Rich experience in the software industry
 - 🔭 Rich experience in web development with Python & JS & PHP frameworks 
@@ -110,27 +110,27 @@
 
 <p align="center">
 
-<!-- <a href="https://github.com/mstar777?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mstar777&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@mstar777's github-readme-stats"/></a> -->
+<!-- <a href="https://github.com/uStar10?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=uStar10&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@uStar10's github-readme-stats"/></a> -->
 
-<a href="https://github.com/mstar777?tab=repositories">
-      <img alt="mstar777's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mstar777&show_icons=true&count_private=true&border_color=9DAAF2&bg_color=09131B&title_color=FF652F&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49.5%"/>
+<a href="https://github.com/uStar10?tab=repositories">
+      <img alt="uStar10's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=uStar10&show_icons=true&count_private=true&border_color=9DAAF2&bg_color=09131B&title_color=FF652F&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49.5%"/>
     </a>
     
-<a href="https://github.com/mstar777?tab=repositories">
-    <img alt="mstar777's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mstar777&langs_count=8&layout=compact&border_color=9DAAF2&bg_color=09131B&text_color=FFFFFF&title_color=FF652F&icon_color=F8D866" height="192px" width="49.5%"/>
+<a href="https://github.com/uStar10?tab=repositories">
+    <img alt="uStar10's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=uStar10&langs_count=8&layout=compact&border_color=9DAAF2&bg_color=09131B&text_color=FFFFFF&title_color=FF652F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
 
 </p>
 
  <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@mstar777">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mstar777&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@uStar10">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=uStar10&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=mstar777.visitor-badge&left_color=red&right_color=green" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=uStar10.visitor-badge&left_color=red&right_color=green" />
 <h1 align="center"></h1>
 </br>
 
